@@ -1,1 +1,2 @@
-alterei essa linha de código
+alterei essa linha de código, e adicionei uma outra.
+Sou a nova linha do código.
